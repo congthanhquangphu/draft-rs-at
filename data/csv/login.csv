@@ -1,0 +1,5 @@
+username,password,valid
+valid_user,valid_password,True
+invalid_user,wrong_password,False
+test_user,test_password,True
+a,b,c

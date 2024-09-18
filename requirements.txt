@@ -1,0 +1,11 @@
+robotframework
+robotframework-seleniumlibrary
+robotframework-browser
+selenium
+pandas
+openpyxl
+
+google-auth
+gspread
+
+robotframework-metrics
